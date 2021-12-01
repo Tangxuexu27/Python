@@ -1,2 +1,0 @@
-# Python
-Python Bascis Learn
